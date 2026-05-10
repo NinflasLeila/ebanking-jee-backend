@@ -3,6 +3,7 @@ package net.nineflas.ebanking_jee_project_backend.entities;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.*;
+import net.nineflas.ebanking_jee_project_backend.enums.AccountStatus;
 
 import java.util.Date;
 import java.util.List;
